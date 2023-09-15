@@ -2,6 +2,9 @@
 Project iSEE. is a movie web application created using different technologies such as; React js, Node js, Html/Css, Api Integrations, and video streaming services.
 
 ## Available Scripts
+Install Node.js
+Install React.js
+Install the React Router
 
 In the project directory, you can run:
 
